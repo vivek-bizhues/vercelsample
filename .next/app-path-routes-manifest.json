@@ -1,0 +1,9 @@
+{
+  "/_not-found": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/(site)/page": "/",
+  "/privacypolicy/page": "/privacypolicy",
+  "/terms/page": "/terms",
+  "/api/webhooks/route": "/api/webhooks",
+  "/(auth)/sign-in/page": "/sign-in"
+}

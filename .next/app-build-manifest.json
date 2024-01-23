@@ -1,0 +1,52 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-e4ddf1627bc38521.js",
+      "static/chunks/fd9d1056-2571649289945fec.js",
+      "static/chunks/864-f39dd26be5286673.js",
+      "static/chunks/main-app-ecd349b1ca4cbcd6.js",
+      "static/chunks/app/_not-found-9390681a6b7c989b.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-e4ddf1627bc38521.js",
+      "static/chunks/fd9d1056-2571649289945fec.js",
+      "static/chunks/864-f39dd26be5286673.js",
+      "static/chunks/main-app-ecd349b1ca4cbcd6.js",
+      "static/chunks/2-90354eb197450bf0.js",
+      "static/css/8d2238e2f5894284.css",
+      "static/chunks/app/layout-1b8b637743eb3df0.js"
+    ],
+    "/(site)/page": [
+      "static/chunks/webpack-e4ddf1627bc38521.js",
+      "static/chunks/fd9d1056-2571649289945fec.js",
+      "static/chunks/864-f39dd26be5286673.js",
+      "static/chunks/main-app-ecd349b1ca4cbcd6.js",
+      "static/chunks/964-d4280471ff3aae29.js",
+      "static/chunks/app/(site)/page-099cc2e4881b25a1.js"
+    ],
+    "/privacypolicy/page": [
+      "static/chunks/webpack-e4ddf1627bc38521.js",
+      "static/chunks/fd9d1056-2571649289945fec.js",
+      "static/chunks/864-f39dd26be5286673.js",
+      "static/chunks/main-app-ecd349b1ca4cbcd6.js",
+      "static/chunks/964-d4280471ff3aae29.js",
+      "static/chunks/app/privacypolicy/page-3c1aa1894fc04bd2.js"
+    ],
+    "/terms/page": [
+      "static/chunks/webpack-e4ddf1627bc38521.js",
+      "static/chunks/fd9d1056-2571649289945fec.js",
+      "static/chunks/864-f39dd26be5286673.js",
+      "static/chunks/main-app-ecd349b1ca4cbcd6.js",
+      "static/chunks/964-d4280471ff3aae29.js",
+      "static/chunks/app/terms/page-2eb4061b766de556.js"
+    ],
+    "/(auth)/sign-in/page": [
+      "static/chunks/webpack-e4ddf1627bc38521.js",
+      "static/chunks/fd9d1056-2571649289945fec.js",
+      "static/chunks/864-f39dd26be5286673.js",
+      "static/chunks/main-app-ecd349b1ca4cbcd6.js",
+      "static/chunks/201-b62f15da05482835.js",
+      "static/chunks/app/(auth)/sign-in/page-76091adb5c09ddf7.js"
+    ]
+  }
+}
