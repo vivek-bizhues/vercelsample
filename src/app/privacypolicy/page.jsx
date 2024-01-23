@@ -15,7 +15,7 @@ const PrivacyPolicy = () => {
                   className="flex h-full w-full flex-col justify-center"
                   href="/terms"
                 >
-                  <div className="">Terms of service</div>
+                  <div className="">Terms</div>
                   <div className="mx-auto mt-1 block h-0.5 w-3 rounded-xl xl:hidden false" />
                 </a>
               </li>
